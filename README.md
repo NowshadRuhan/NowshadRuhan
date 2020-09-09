@@ -3,8 +3,8 @@
 ##  I'm Nowshad Ruhan
 ## Software Engineer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/nowshadr/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:nowshad.cse@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-nowshadruhan-blue)](https://www.linkedin.com/in/nowshadr/)
+[![](https://img.shields.io/badge/Gmail-nowshad.cse@gmail.com-red)](mailto:nowshad.cse@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
