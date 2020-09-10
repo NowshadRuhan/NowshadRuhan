@@ -22,9 +22,9 @@ class NowshadRuhan:
             'backend': ['Django', 'Python', 'PHP', 'CodeIgniter', 'Laravel', 'Node.JS', 'Java'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Oracle'],
             'devops': ['AWS', 'cloud hosting', 'GitHub Actions', 'pythonanywhere', 'GoDaddy', 'SiteGround', 'Share-Hosting'],
-            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'pythonista, 'Atom', 'numpy', 'scipy'],
+            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'pythonista, 'atom', 'numpy', 'scipy'],
             'misc': ['Kite', 'JEDI', 'Firebase', 'SCRUM', 'GNU/Linux']
-            'API': ['Google map API', 'REST API']
+            'api': ['Google map API', 'REST API']
         }
         self.architecture = ['MVT', 'SPA', 'MVC', 'Virtual Environment', 'Serverless', 'microservices']
 
