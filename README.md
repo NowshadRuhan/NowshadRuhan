@@ -38,7 +38,7 @@ if __name__ == '__main__':
 
 ```
 ## Academic Honors & Achievements
-:computer: **_Vice_ _Chairman_ _Scholarship_, 2017** 
+:computer: **_Vice_ _Chancellor_ _Scholarship_, 2017** 
 
 👨‍💻 **_First_ _Place_ _in_ _Mobile_ _Application_ _Development_ from Bangladesh ICT Division, December,2018** 
 
