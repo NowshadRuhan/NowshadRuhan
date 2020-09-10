@@ -23,7 +23,7 @@ class NowshadRuhan:
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Oracle'],
             'devops': ['AWS', 'cloud hosting', 'GitHub Actions', 'pythonanywhere', 'GoDaddy', 'SiteGround', 'Share-Hosting'],
             'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'pythonista, 'atom', 'numpy', 'scipy'],
-            'misc': ['Kite', 'JEDI', 'Firebase', 'SCRUM', 'GNU/Linux']
+            'misc': ['Kite', 'JEDI', 'Firebase', 'SCRUM', 'GNU/Linux'],
             'api': ['Google map API', 'REST API']
         }
         self.architecture = ['MVT', 'SPA', 'MVC', 'Virtual Environment', 'Serverless', 'microservices']
