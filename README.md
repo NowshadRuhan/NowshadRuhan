@@ -18,14 +18,15 @@ class NowshadRuhan:
         self.web = 'https://syl-hdp.globentrust.com/'
         self.linkedin = 'https://www.linkedin.com/in/nowshadr/'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Bootstrap4'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Bootstrap4', 'Ajax'],
             'backend': ['Django', 'Python', 'PHP', 'CodeIgniter', 'Laravel', 'Node.JS', 'Java'],
-            'database': ['MySQL', 'SQLite3', 'MongoDB'],
-            'devops': ['GoDaddy', 'SiteGround', 'cloud hosting', 'GitHub Actions', 'AWS', 'Share-Hosting'],
-            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'Atom', 'numpy', 'scipy'],
-            'misc': ['Firebase', 'SCRUM', 'Kite', 'GNU/Linux']
+            'database': ['MySQL', 'SQLite3', 'MongoDB', 'Oracle'],
+            'devops': ['AWS', 'cloud hosting', 'GitHub Actions', 'pythonanywhere', 'GoDaddy', 'SiteGround', 'Share-Hosting'],
+            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'pythonista, 'Atom', 'numpy', 'scipy'],
+            'misc': ['Kite', 'JEDI', 'Firebase', 'SCRUM', 'GNU/Linux']
+            'API': ['Google map API', 'REST API']
         }
-        self.architecture = ['MVT', 'SPA', 'MVC', 'Serverless', 'microservices']
+        self.architecture = ['MVT', 'SPA', 'MVC', 'Virtual Environment', 'Serverless', 'microservices']
 
     def __str__(self):
         return self.name
@@ -38,7 +39,10 @@ if __name__ == '__main__':
 ```
 ## Get in touch
 
-[![](https://img.shields.io/badge/LinkedIn-nowshadruhan-blue)](https://www.linkedin.com/in/nowshadr/)
+[![stopstalk](https://img.shields.io/badge/LinkedIn-nowshadruhan-green)](https://www.stopstalk.com/user/profile/Nowshad_Ruhan)
+[![onlinejudge](https://img.shields.io/badge/LinkedIn-nowshadruhan-blue)](https://uhunt.onlinejudge.org/id/853105)
+[![codeforces](https://img.shields.io/badge/LinkedIn-nowshadruhan-purple)](https://codeforces.com/profile/n_ruhan)
+[![pypi](https://img.shields.io/badge/LinkedIn-nowshadruhan-red)](https://pypi.org/user/NowshadRuhan/)
 [![](https://img.shields.io/badge/Gmail-nowshad.cse@gmail.com-red)](mailto:nowshad.cse@gmail.com)
 
 
