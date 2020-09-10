@@ -37,6 +37,14 @@ if __name__ == '__main__':
 
 
 ```
+## Academic Honors & Achievements
+:computer: **_Vice_ _Chairman_ _Scholarship_, 2017** 
+:vulcan_salute: **_First_ _Place_ _in_ _Mobile_ _Application_ _Development_ from Bangladesh ICT Division, December,2018** 
+:writing_hand: **_First_ _place_ _in_ _Chess_ _Olympiad_ ,2012**
+
+
+
+
 ## Get in touch
 
 [![stopstalk](https://img.shields.io/badge/stopstalk-nowshadruhan-green)](https://www.stopstalk.com/user/profile/Nowshad_Ruhan)
