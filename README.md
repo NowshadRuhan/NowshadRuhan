@@ -52,7 +52,7 @@ if __name__ == '__main__':
 [![stopstalk](https://img.shields.io/badge/stopstalk-nowshadruhan-green)](https://www.stopstalk.com/user/profile/Nowshad_Ruhan)
 [![onlinejudge](https://img.shields.io/badge/onlinejudge-nowshadruhan-blue)](https://uhunt.onlinejudge.org/id/853105)
 [![codeforces](https://img.shields.io/badge/codeforces-nowshadruhan-purple)](https://codeforces.com/profile/n_ruhan)
-[![pypi](https://img.shields.io/badge/pypi-nowshadruhan-red)](https://pypi.org/user/NowshadRuhan/)
+[![pypi](https://img.shields.io/badge/pypi-nowshadruhan-#2ec1ac)](https://pypi.org/user/NowshadRuhan/)
 [![](https://img.shields.io/badge/Gmail-nowshad.cse@gmail.com-red)](mailto:nowshad.cse@gmail.com)
 
 
