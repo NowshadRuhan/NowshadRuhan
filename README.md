@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 ##  I'm Nowshad Ruhan
-## Software Engineer at <a href="https://www.ordere.co.uk/" > OrderE </a> 👨‍💻
+## Software Engineer at <a href="https://ordervox.co.uk/" > OrderVox </a> 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-nowshadruhan-blue)](https://www.linkedin.com/in/nowshadr/)
 [![](https://img.shields.io/badge/Gmail-nowshad.cse@gmail.com-red)](mailto:nowshad.cse@gmail.com)
