@@ -26,7 +26,7 @@ class NowshadRuhan:
             'misc': ['Kite', 'JEDI', 'Firebase', 'SCRUM', 'GNU/Linux'],
             'api': ['Google map API', 'REST API']
         }
-        self.architecture = ['MVT', 'SPA', 'MVC', 'Virtual Environment', 'Serverless', 'microservices']
+        self.architecture = ['MVT', 'SPA', 'MVC', 'Virtual-Environment', 'Serverless', 'microservices']
 
     def __str__(self):
         return self.name
