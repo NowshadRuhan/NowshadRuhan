@@ -15,6 +15,7 @@ class NowshadRuhan:
     def __init__(self):
         self.username = 'NowshadRuhan'
         self.name = 'Nowshad Ruhani Chowdhury'
+        self.portfolio = 'https://nowshadruhan.globentrust.com/'
         self.web = 'https://syl-hdp.globentrust.com/'
         self.linkedin = 'https://www.linkedin.com/in/nowshadr/'
         self.code = {
