@@ -20,7 +20,7 @@ class NowshadRuhan:
         self.linkedin = 'https://www.linkedin.com/in/nowshadr/'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Bootstrap4', 'Ajax'],
-            'backend': ['Django', 'Python', 'PHP', 'CodeIgniter', 'Laravel', 'Node.JS', 'Java'],
+            'backend': ['FASTAPI', 'Django', 'Python', 'PHP', 'CodeIgniter', 'Laravel', 'Node.JS', 'Java'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Oracle'],
             'devops': ['AWS', 'cloud hosting', 'GitHub Actions', 'pythonanywhere', 'GoDaddy', 'SiteGround', 'Share-Hosting'],
             'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'pythonista, 'atom', 'numpy', 'scipy'],
