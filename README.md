@@ -15,8 +15,9 @@ class NowshadRuhan:
     def __init__(self):
         self.username = 'NowshadRuhan'
         self.name = 'Nowshad Ruhani Chowdhury'
-        self.portfolio = 'https://nowshadruhan.globentrust.com/'
-        self.web = 'https://syl-hdp.globentrust.com/'
+        self.scholar = 'https://scholar.google.com/citations?user=Az-aDkAAAAAJ&hl=en'
+        self.ieee = 'https://ieeexplore.ieee.org/author/37088862632'
+        self.stackoverflow = 'https://stackoverflow.com/users/18045702/nowshad-ruhani-chowdhury'
         self.linkedin = 'https://www.linkedin.com/in/nowshadr/'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Bootstrap4', 'Ajax'],
