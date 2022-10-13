@@ -60,3 +60,9 @@ if __name__ == '__main__':
 
 ---
 ⭐️ From [@nowshadruhan](https://github.com/NowshadRuhan)
+---
+
+## Want to know more about me, scan this QR Code:
+
+![MyQR-Code](https://github.com/NowshadRuhan/QR-Code-With-Python/blob/main/mycode.png?raw=true) 
+
