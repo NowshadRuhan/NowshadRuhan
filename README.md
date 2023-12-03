@@ -6,6 +6,13 @@
 [![](https://img.shields.io/badge/LinkedIn-nowshadruhan-blue)](https://www.linkedin.com/in/nowshadr/)
 [![](https://img.shields.io/badge/Gmail-nowshad.cse@gmail.com-red)](mailto:nowshad.cse@gmail.com)
 
+I am a seasoned Senior Software Engineer with a passion for creating innovative solutions and optimizing software performance. With over 6+ years of experience in the field, I have honed my skills across various domains, contributing to the successful delivery of complex projects.
+
+As a Software Engineer, I specialize in full-stack development, system architecture design, and optimizing software for scalability and performance. My proficiency spans across programming languages including Python, JavaScript, PHP, Java, C, and C++, frameworks such as FASTAPI, NodeJS, Django, CodeIgniter, Laravel and leveraging cutting-edge technologies like AWS, AWS Lambda, Cloud, GIT, Google Cloud, MongoDB, MySQL etc.
+
+I am passionate about staying at the forefront of technological advancements and continually refining my skills. My vision is to leverage my expertise to develop groundbreaking solutions that address real-world challenges and drive innovation in the software development landscape.
+
+Thank you for visiting my portfolio. I am always eager to explore new opportunities, collaborate on exciting projects, and contribute my skills to achieve shared success. Let's connect and explore how we can work together to create exceptional software solutions.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
