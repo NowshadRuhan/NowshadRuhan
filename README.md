@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 ##  I'm Mohammed Nowshad Ruhani Chowdhury
-## Machine Learning Engineer👨‍💻
+## AI Engineer | Machine Learning Engineer👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-nowshadruhan-blue)](https://www.linkedin.com/in/nowshadr/)
 [![](https://img.shields.io/badge/Gmail-nowshad.cse@gmail.com-red)](mailto:nowshad.cse@gmail.com)
