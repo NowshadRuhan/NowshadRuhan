@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
-##  Check here for details: [![](Website)](https://nowshadruhan.github.io/) 
+##  Check here for details:  ![Website](https://nowshadruhan.github.io/?raw=true) 
 ## AI Engineer | Machine Learning Engineer👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-nowshadruhan-blue)](https://www.linkedin.com/in/nowshadr/)
